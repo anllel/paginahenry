@@ -1,0 +1,214 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo&display=swap');
+
+*{
+   padding: 0px;
+   margin: 0px;
+   font-family: 'Archivo', sans-serif;
+}
+
+h1{
+    color: white;
+    
+}
+h2{
+    font-size: 60px;
+}
+span{
+    color: rgba(18,147,212,255);
+}
+
+
+header{
+    background-color: rgba(36,40,43,255);
+    height: 80px;
+    padding: 0 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+}
+hr{
+    border:3px solid rgb(18,147,212,255);
+    border-radius: 30px;
+     
+}
+.cabecera{
+    height: 500px;
+    background: url(../images/cabecera.jpg);
+    background-size: cover;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    }
+.formu{
+    background-color: rgba(36,40,43,255);
+    padding: 0 80px;
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    align-items: center;
+    color: white;
+}
+
+.imput button {
+    padding: 5px;
+    background-color: rgba(232,73,29,255);
+    color: white;
+    border: none;
+}
+
+.imput input{
+    padding: 5px;
+}
+
+.tarjetas{
+    display: flex;
+    padding: 10px 50px 10px 50px;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+footer{
+    background-color: rgba(18,147,212,255);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.padre{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 330px;
+
+    
+    
+}
+
+.p1{
+    width: 70%;
+    padding-top: 20px;
+}
+
+.p2{
+    background-color: rgba(53,66,74,255);
+    color: white;
+    margin: 20px 0 ;
+    width: 68%;
+    padding: 10px 10px;
+}
+
+.img1{
+    width: 70%;
+}
+
+.parrafo3{
+    background-color:rgba(53,66,74,255) ;
+    width: 100%;
+    height: 25%;
+    color: white;
+    margin: 60px 0px 0 0;
+    padding: 20px 20px 20px 10px;
+}
+
+.padre1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.parrafo33{
+    background-color:rgba(53,66,74,255) ;
+    width: 290px;
+    height: 150px;
+    color: white;
+    margin: 60px 450px 20px 0;
+    padding: 20px 20px 20px 10px;
+}
+
+.parrafos h2{
+font-size: 20px;
+margin-top: 50px;
+}
+
+.p3{
+    width: 700px;
+    height: 150px;
+    margin: 0 0 10px 100px ;
+    padding: 75px 30px 10px 30px ;
+    background-color: rgb(230,230,230,255);
+}
+
+.p4{
+    width: 700px;
+    height: 150px;
+    margin: 0 0 10px 100px ;
+    padding: 75px 30px 10px 30px ;
+    background-color: rgb(230,230,230,255);
+}
+
+.p5{
+    width: 700px;
+    height: 150px;
+    margin: 0 0 10px 100px ;
+    padding: 75px 30px 10px 30px ;
+    background-color: rgb(230,230,230,255);
+
+}
+
+.h2{
+    margin: 0 100px 20px ;
+}
+
+
+ 
+input[type='text1']{
+   padding: 10px 400px 10px 0;
+
+}
+
+input[type='text2']{
+    padding: 10px 400px 10px 0;
+ 
+ }
+input[type='text3']{
+    padding: 10px 400px 10px 0;
+ 
+}
+
+input[type='text4']{
+    padding: 10px 400px 10px 0;
+ 
+}
+
+h4{
+    padding-bottom: 20px;
+}
+.padre2{
+    display: flex;
+    justify-content: space-around;
+}
+
+div img{
+    width: 320px;
+    
+}
+
+button{
+    padding: 5px 238px 5px 250px;
+    background-color: rgba(232,73,29,255);
+    color: white;
+    border: none;
+    
+}
+
+
